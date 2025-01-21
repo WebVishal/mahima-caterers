@@ -26,7 +26,6 @@ const Gallery = () => {
     //         });
     //     });
     // });
-
     return (
         <div>
             <div id="root">
@@ -35,7 +34,7 @@ const Gallery = () => {
                         <div className="text-center mb-16">
                             <span className="text-amber-500 font-semibold">Our Gallery</span>
                             <h2 className="text-3xl md:text-4xl font-bold text-neutral-900 mt-2 animate__animated animate__fadeInUp">
-                                Moments We've Created
+                                Moments We&apos;ve Created
                             </h2>
                             <div className="h-1 w-20 bg-amber-500 mx-auto mt-4"></div>
                         </div>

@@ -27,9 +27,9 @@ const Contact = () => {
                         <div className="grid md:grid-cols-2 gap-12" id="el-4t7kx4hn">
                             <div className="space-y-8" id="el-nqzvzyzu">
                                 <div className="animate__animated animate__fadeInLeft" id="el-csf0yuay">
-                                    <h3 className="text-2xl font-semibold mb-4" id="el-91yv0lkl">Let's Plan Your Event</h3>
+                                    <h3 className="text-2xl font-semibold mb-4" id="el-91yv0lkl">Let&apos;s Plan Your Event</h3>
                                     <p className="text-neutral-600 mb-6" id="el-zq6ru3wb">
-                                        We'd love to hear from you. Reach out to us for any queries about our services.
+                                        We&apos;d love to hear from you. Reach out to us for any queries about our services.
                                     </p>
                                 </div>
 
